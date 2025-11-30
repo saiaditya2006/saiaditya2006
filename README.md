@@ -56,8 +56,7 @@ Working with real-world datasets
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/
-sai-aditya-pediredla
+- **LinkedIn:** www.linkedin.com/in/sai-aditya-pediredla
  
 - **Email:** pediredlasaiaditya@gmail.com
 
