@@ -47,15 +47,6 @@ Working with real-world datasets
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,docker,linux,vscode" />
 </p>
 
----
-
-### 📊 GitHub Stats
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 😄 A Little More About Me
 - I break my code on Monday  
@@ -65,8 +56,10 @@ Working with real-world datasets
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** your-link  
-- **Email:** your-email  
+- **LinkedIn:** www.linkedin.com/in/
+sai-aditya-pediredla
+ 
+- **Email:** pediredlasaiaditya@gmail.com
 
 ---
 
